@@ -1,21 +1,140 @@
-MIT License
+END USER LICENSE AGREEMENT (EULA)
 
-Copyright (c) 2026 homer0323
+IMPORTANT - READ CAREFULLY: This End User License Agreement ("EULA") is a legal
+agreement between you (either an individual or a single entity, "You" or "Your")
+and 傲娇的夜行喵hh (@GitHub @BiliBili) ("Licensor") for the accompanying software
+product, including any associated media, printed materials, and online or
+electronic documentation (collectively, the "Software").
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+BY INSTALLING, COPYING, OR OTHERWISE USING THE SOFTWARE, YOU AGREE TO BE BOUND
+BY THE TERMS OF THIS EULA. IF YOU DO NOT AGREE TO THE TERMS OF THIS EULA, DO
+NOT INSTALL OR USE THE SOFTWARE.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. GRANT OF LICENSE
+The Software is licensed, not sold. Licensor grants You a non-exclusive,
+non-transferable, revocable, limited license to install and use the Software
+solely for personal, non-commercial purposes, subject to the restrictions set
+forth in this EULA. No other rights are granted.
 
+2. RESTRICTIONS
+You may not, and You may not permit any third party to:
+(a) Use the Software for any commercial purpose, including but not limited to,
+    use in a business, for profit, for revenue generation, or in any
+    commercial environment, without first obtaining a separate commercial
+    license from Licensor.
+(b) Modify, adapt, translate, or create derivative works based upon the
+    Software.
+(c) Reverse engineer, decompile, disassemble, or otherwise attempt to discover
+    the source code of the Software.
+(d) Distribute, sublicense, rent, lease, lend, sell, or otherwise transfer the
+    Software or any rights granted under this EULA to any third party.
+(e) Remove, alter, or obscure any proprietary notices, labels, or marks from
+    the Software.
+(f) Use the Software in any manner that violates applicable laws or
+    regulations.
+
+3. COMMERCIAL USE
+Any use of the Software for commercial purposes requires a separate written
+commercial license agreement with Licensor. Commercial use includes, but is not
+limited to, any use that directly or indirectly generates revenue, is performed
+for a business or organization, or is used to provide services to third parties
+for a fee. To request a commercial license, please contact Licensor via the
+platforms listed in Section 16.
+
+4. INTELLECTUAL PROPERTY RIGHTS
+The Software and all intellectual property rights therein, including but not
+limited to copyrights, patents, trade secrets, and trademarks, are owned by
+Licensor and are protected by applicable intellectual property laws. All rights
+not expressly granted to You in this EULA are fully reserved by Licensor. The
+Software is licensed under an "All Rights Reserved" basis.
+
+5. TERMINATION
+This EULA is effective until terminated. Your rights under this EULA will
+terminate automatically without notice if You fail to comply with any term or
+condition. Upon termination, You must cease all use of the Software and
+permanently delete or destroy all copies of the Software in Your possession.
+Sections 4, 6, 7, 8, 9, 10, 12, and 13 shall survive any termination.
+
+6. DISCLAIMER OF WARRANTY
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. LICENSOR DOES
+NOT WARRANT THAT THE SOFTWARE WILL MEET YOUR REQUIREMENTS, OPERATE
+UNINTERRUPTED, OR BE ERROR-FREE. THE ENTIRE RISK AS TO THE QUALITY AND
+PERFORMANCE OF THE SOFTWARE IS WITH YOU.
+
+7. LIMITATION OF LIABILITY
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL LICENSOR
+BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, CONSEQUENTIAL, OR PUNITIVE
+DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF
+PROFITS, BUSINESS INTERRUPTION, LOSS OF INFORMATION, OR OTHER PECUNIARY LOSS)
+ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF LICENSOR
+HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN ANY EVENT, LICENSOR'S
+TOTAL LIABILITY FOR ANY CLAIM ARISING FROM OR RELATED TO THIS EULA OR THE
+SOFTWARE SHALL BE LIMITED TO THE AMOUNT (IF ANY) YOU PAID FOR THE SOFTWARE.
+
+8. INDEMNIFICATION
+You agree to indemnify, defend, and hold harmless Licensor from and against any
+and all claims, damages, liabilities, costs, and expenses (including reasonable
+attorneys' fees) arising out of Your use of the Software in breach of this
+EULA.
+
+9. EXPORT RESTRICTIONS
+You agree to comply with all applicable export and import control laws and
+regulations of the United States and other countries. You shall not export or
+re-export the Software or any underlying technology without the appropriate
+government authorizations.
+
+10. GOVERNING LAW AND DISPUTE RESOLUTION
+This EULA shall be governed by and construed in accordance with the laws of
+[Your Country/State], without regard to its conflict of law principles. Any
+dispute arising out of or in connection with this EULA shall be subject to the
+exclusive jurisdiction of the courts located in [Your Jurisdiction]. If the
+Licensor has no physical business address, the governing law shall be the law
+of the country where the Licensor primarily operates or, if indeterminable, the
+laws of the State of California, USA, with non-exclusive jurisdiction in the
+federal and state courts located in San Francisco County, California.
+
+11. SEVERABILITY
+If any provision of this EULA is held to be invalid, illegal, or unenforceable,
+that provision shall be limited or eliminated to the minimum extent necessary
+so that this EULA shall otherwise remain in full force and effect and
+enforceable.
+
+12. ENTIRE AGREEMENT
+This EULA constitutes the entire agreement between You and Licensor concerning
+the Software and supersedes all prior or contemporaneous oral or written
+communications, proposals, and representations with respect to the Software.
+No amendment or modification of this EULA shall be binding unless in writing
+and signed by Licensor. Licensor may update this EULA from time to time by
+posting a new version; continued use of the Software after such changes
+constitutes acceptance of the revised terms.
+
+13. WAIVER
+The failure of Licensor to enforce any provision of this EULA shall not be
+deemed a waiver of the right to enforce such provision thereafter or of any
+other provision.
+
+14. THIRD-PARTY COMPONENTS
+The Software may include or be linked to third-party open source libraries or
+other components that are subject to their own license terms. In such cases,
+those third-party terms shall govern Your use of those specific components, and
+nothing in this EULA limits Your rights under, or grants rights that supersede,
+such third-party terms. All other parts of the Software remain subject to this
+EULA.
+
+15. UPDATES AND SUPPORT
+Licensor may, at its sole discretion, provide updates, patches, or support
+services for the Software. Any such updates shall be deemed part of the
+Software and governed by this EULA unless other terms are explicitly provided.
+Licensor has no obligation to provide any updates or support.
+
+16. CONTACT INFORMATION
+For questions about this EULA, commercial license inquiries, or any other
+matters concerning the Software, please contact:
+
+    傲娇的夜行喵hh
+    @GitHub @BiliBili
+    (Contact via direct message on either platform)
+
+Copyright (c) 2026 傲娇的夜行喵hh. All rights reserved.
